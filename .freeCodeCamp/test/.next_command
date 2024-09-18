@@ -71,3 +71,4 @@ bad_command > stderr.txt
 bad_command 2> stderr.txt
 1 > stdout
 echo hello bash 1 > stdout.txt
+read NAME
