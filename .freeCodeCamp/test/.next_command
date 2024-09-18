@@ -87,3 +87,4 @@ cat name.txt
 cat name.txt > name.txt
 cat < name.txt
 echo tuan
+touch script.sh
