@@ -79,3 +79,4 @@ echo freeCodeCamp > name.txt
 echo $NAME > name.txt
 read NAME < name.txt
 echo $NAME
+echo tuan
