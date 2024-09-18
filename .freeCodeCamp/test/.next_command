@@ -88,3 +88,4 @@ cat name.txt > name.txt
 cat < name.txt
 echo tuan
 touch script.sh
+chmod +x script.sh
