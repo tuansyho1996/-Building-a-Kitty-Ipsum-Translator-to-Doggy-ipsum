@@ -78,3 +78,4 @@ echo freecodecamp > name.txt
 echo freeCodeCamp > name.txt
 echo $NAME > name.txt
 read NAME < name.txt
+echo $NAME
