@@ -76,3 +76,5 @@ echo $NAME
 echo $NAME > stdout.txt
 echo freecodecamp > name.txt
 echo freeCodeCamp > name.txt
+echo $NAME > name.txt
+read NAME < name.txt
