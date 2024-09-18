@@ -64,3 +64,4 @@ echo hello bash
 echo > stdout.txt
 echo hello bash > stdout.txt
 echo hello bash >> stdout.txt
+echo hello bash > stdout.txt
