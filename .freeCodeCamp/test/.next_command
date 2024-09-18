@@ -83,3 +83,4 @@ echo tuan
 echo NAME
 echo $NAME
 cat
+cat name.txt
