@@ -263,3 +263,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cat nane.txt
 cat name.txt
+grep -n 'meow[a-z]*' kitty_ipsum_1.txt
