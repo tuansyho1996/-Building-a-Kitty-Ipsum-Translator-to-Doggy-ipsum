@@ -191,3 +191,6 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 grep --color meow
 grep --color meow kitty_ipsum_1.txt
+man grep
+grep -n kitty_ipsum_1.txt
+grep --color -n 'meow' kitty_ipsum_1.txt
