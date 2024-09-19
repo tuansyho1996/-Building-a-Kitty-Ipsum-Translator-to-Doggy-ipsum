@@ -140,3 +140,5 @@ man wc
 __vsc_prompt_cmd_original
 -l kitty_ipsum_1.txt
 wc -l kitty_ipsum_1.txt
+wc -w kitty_ipsum.txt
+wc -w kitty_ipsum_1.txt
