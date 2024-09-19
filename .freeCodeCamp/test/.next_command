@@ -220,3 +220,6 @@ echo -e "\nLines that they appear on:" >> kitty_info.txt
 grep -n 'meow[a-z]*' kitty_ipsum_1.txt
 man grep
 cat name.txt
+man sed
+__vsc_prompt_cmd_original
+sed 's/r/2/' name.txt
