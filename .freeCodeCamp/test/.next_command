@@ -311,3 +311,6 @@ grep -n 'meow[a-z]*' kitty_ipsum_2.txt
 grep -n 'meow[a-z]*' kitty_ipsum_2.txt
 grep --color 'meo[a-z]*' kitty_ipsum_2.txt
 grep --color cat[a-z]*' kitty_ipsum_2.txt grep --color cat[a-z]*' kitty_ipsum_2.txt
+__vsc_prompt_cmd_original
+grep --color 'cat[a-z]*' kitty_ipsum_2.txt
+echo -e "\nNumber of times cat, cats, or catnip appears:" >> kitty_info.txt
