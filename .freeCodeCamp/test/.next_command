@@ -304,3 +304,5 @@ echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
 grep -o 'meow[a-z]*' kitty_ipsum_2.txt
 grep -o 'meow[a-z]*' kitty_ipsum_2.txt
 grep -o 'meow[a-z]*' kitty_ipsum_2.txt
+echo -e "\nLines that they appear on:"
+echo -e "\nLines that they appear on:" >> kitty_info.txt
