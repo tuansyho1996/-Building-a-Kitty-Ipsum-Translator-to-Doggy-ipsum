@@ -223,3 +223,6 @@ cat name.txt
 man sed
 __vsc_prompt_cmd_original
 sed 's/r/2/' name.txt
+sed 's/e/3/' name.txt
+sed 's/freee/f233' name.txt
+sed 's/free/f233/' name.txt
